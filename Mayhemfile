@@ -1,0 +1,5 @@
+project: dcmtk
+target: dcmtk
+
+cmds:
+  - cmd: /dcmdump @@
